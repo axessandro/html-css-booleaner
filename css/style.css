@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER */
+
+.head{
+    height: 100px;
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: 400px;
+}
+
+.head img{
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 5px;
+}
+
+/* /HEADER */
