@@ -86,7 +86,29 @@ p{
 
 ul {
     padding-left: 20px;
+    padding-bottom: 40px;
   }
 /* /section3 */
+
+/* section4 */
+table{
+    width: 99%;
+    margin: auto;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+
+thead{
+    color: white;
+    background-color: #23abe5;
+    font-size: 23px;
+}
+
+tbody{
+    
+    font-size: 23px;
+}
+
+/* /section4 */
 
 /* /BODY */
