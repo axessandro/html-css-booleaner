@@ -75,9 +75,18 @@ h3{
 .section3{
     padding-top: 20px;
     padding-left: 10px;
-    font-size: 25px;
-    width: 98%;
+    font-size: 23px;
+    width: 96%;
 }
+
+p{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+ul {
+    padding-left: 20px;
+  }
 /* /section3 */
 
 /* /BODY */
