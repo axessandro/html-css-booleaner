@@ -21,3 +21,63 @@
 }
 
 /* /HEADER */
+
+/* BODY */
+
+/* section1 */
+
+.section1{
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 84%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    color: #838383;
+    font-size: 28px;
+    font-weight: 400px;
+}
+
+h3{
+    color: #838383;
+    font-weight: lighter;
+}
+
+#journalist{
+    color: #23abe5;
+}
+
+/* /section1 */
+
+/* section2 */
+
+.section2{
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 94%;
+}
+
+.photo{
+    height: 520px;
+}
+
+.photo-description{
+    font-size: 18px;
+}
+
+/* /section2 */
+
+/* section3 */
+.section3{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 25px;
+    width: 98%;
+}
+/* /section3 */
+
+/* /BODY */
