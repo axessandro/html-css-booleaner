@@ -104,9 +104,8 @@ ul {
 table{
     width: 99%;
     margin: auto;
-    border-collapse: separate;
+    border-collapse: collapse;
     border-spacing: 0px 10px;
-    table-layout: auto;
 }
 
 thead{
@@ -115,12 +114,20 @@ thead{
     font-size: 23px;
 }
 
+tbody tr{
+    height: 60px;
+}
+
 tbody{
     font-size: 23px;
 }
 
-td, th{
-    padding: 20px; 
+th{
+    text-align: left;
+}
+
+td{
+    width: 50px;
 }
 
 .color-cells{
